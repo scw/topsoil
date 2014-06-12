@@ -11,7 +11,7 @@ successful Microsoft Excel Add-In with similar capabilities that now works
 only in older versions of Excel.
 
 If you are interested in learning more about Topsoil, please contact
-[Jim Bowring](mailto://bowringj@cofc.edu).
+<a href="mailto:bowringj@cofc.edu">Jim Bowring</a>.
 
 Getting Started
 ---------------
